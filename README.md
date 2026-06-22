@@ -233,7 +233,7 @@ This project is intended for educational and research purposes only. Past perfor
 
 ## Author
 
-Aayush Arya
+Kanisk Kumar
 
 Quantitative Finance & Algorithmic Trading Enthusiast
 
