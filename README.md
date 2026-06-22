@@ -191,7 +191,7 @@ Overlays equity curves for all cointegrated pairs.
 
 ### Equity Curve
 
-![Equity Curve](results/3.png)
+![Equity Curve](results/equity curve.png)
 
 ### Pair Performance Comparison
 
