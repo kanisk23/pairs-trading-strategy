@@ -182,6 +182,13 @@ Overlays equity curves for all cointegrated pairs.
 ---
 ## Sample Results
 
+### Stock 1 Performance
+![stock 1 performance](results/Stock 1.png)
+
+### Stock 2 Performance
+![stock 2 performance](results/Stock 2.png)
+
+
 ### Equity Curve
 
 ![Equity Curve](results/3.png)
