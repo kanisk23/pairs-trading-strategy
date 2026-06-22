@@ -183,15 +183,15 @@ Overlays equity curves for all cointegrated pairs.
 ## Sample Results
 
 ### Stock 1 Performance
-![stock 1 performance](results/Stock 1.png)
+![stock 1 performance](results/Stock%201.png)
 
 ### Stock 2 Performance
-![stock 2 performance](results/Stock 2.png)
+![stock 2 performance](results/Stock%202.png)
 
 
 ### Equity Curve
 
-![Equity Curve](results/equity curve.png)
+![Equity Curve](results/equity%20curve.png)
 
 ### Pair Performance Comparison
 
