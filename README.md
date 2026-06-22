@@ -180,7 +180,15 @@ Tracks cumulative strategy performance over time.
 Overlays equity curves for all cointegrated pairs.
 
 ---
+## Sample Results
 
+### Equity Curve
+
+![Equity Curve](results/3.png)
+
+### Pair Performance Comparison
+
+![Comparison Table](results/results.png)
 ## Example Output
 
 ```text
